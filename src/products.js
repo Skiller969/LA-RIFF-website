@@ -18,21 +18,21 @@ export const products = [
         name: "Concrete Knife",
         price: "₹ 12,500",
         description: "Oversized silhouette. Mess is a mindset.",
-        image: "./public/pics/aesthetic/aesthetic-1.jpg",
+        image: "pics/aesthetic/aesthetic-1.jpg",
     },
     {
         id: 2,
         name: "Glory Days",
         price: "₹ 18,900",
         description: "Designed for presence, not comfort zones.",
-        image: "./public/pics/aesthetic/aesthetic-2.jpg",
+        image: "pics/aesthetic/aesthetic-2.jpg",
     },
     {
         id: 3,
         name: "After Hours",
         price: "₹ 15,200",
         description: "Shadows speak louder than words.",
-        image: "./public/pics/aesthetic/aesthetic-3.jpg"
+        image: "pics/aesthetic/aesthetic-3.jpg"
     },
     {
         id: 4,
