@@ -25,7 +25,7 @@ export const products = [
         name: "Glory Days",
         price: "₹ 18,900",
         description: "Designed for presence, not comfort zones.",
-        image: "pics/aesthetic/aesthetic-2.jpg",
+        image: "pic/hesder/la-riff-editorial.jpg",
     },
     {
         id: 3,
